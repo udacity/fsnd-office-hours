@@ -1,6 +1,6 @@
-Debugging in Python - Office Hours Agenda
+###Debugging in Python - Office Hours Agenda###
 
-[Link to office hours](https://plus.google.com/u/0/events/ch268rqdktqap2nmscimptpruv8?authkey=COe44vLPzoehaA)
+[Link to recording of office hours](https://plus.google.com/u/0/events/ch268rqdktqap2nmscimptpruv8?authkey=COe44vLPzoehaA)
 
 **_What is debugging?_ **
 
