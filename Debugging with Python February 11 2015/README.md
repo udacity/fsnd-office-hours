@@ -11,9 +11,9 @@ Debugging in Python - Office Hours Agenda
 - **_Debugging Tools_:**
 
 - Simple Techniques
-    - ○print statements
-    - ○asserts
-    - ○console reading
+    - print statements
+    - asserts
+    - console reading
 
 - ipython + pdb
     - Brief overview of what ipython is
