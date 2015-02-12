@@ -6,9 +6,12 @@ Debugging in Python - Office Hours Agenda
 
 - Observing the state of your program near bugs so you know what's going on
 - Finding where your code diverges from your mental model
-- **_How do we avoid bugs in the first place?_**
+
+**_How do we avoid bugs in the first place?_**
+
 - Write small pieces of functionality and test often.
-- **_Debugging Tools_:**
+
+**_Debugging Tools_:**
 
 - Simple Techniques
     - print statements
