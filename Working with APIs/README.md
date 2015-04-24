@@ -1,6 +1,6 @@
 # Office Hours Summary 3/11: Using APIs
 
-You can watch the office hours [here](https://plus.google.com/events/c7nv4miju86a1ediu2ohuupp62s).
+You can watch the office hours [here](https://plus.google.com/events/c7nv4miju86a1ediu2ohuupp62s?authkey=CIbM2tabgKLu9AE).
 
 Find it in the repo [here](https://github.com/udacity/fsnd-office-hours).
 
