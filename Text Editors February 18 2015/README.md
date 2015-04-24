@@ -1,6 +1,6 @@
 # Office Hours Summary 2/18: Text Editors
 
-You can watch the office hours [here](https://plus.google.com/events/ce9quu8pbjjntf6p0n75a3fhf7o).
+You can watch the office hours [here](https://plus.google.com/events/ce9quu8pbjjntf6p0n75a3fhf7o?authkey=CPu1ss61qLjpWQ).
 
 Find it in the repo [here](https://github.com/udacity/fsnd-office-hours).
 
