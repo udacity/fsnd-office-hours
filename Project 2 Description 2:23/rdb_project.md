@@ -1,5 +1,7 @@
 #RDB Project
 
+Watch the office hours here: [Office hours link](https://plus.google.com/u/0/events/co3cqvh831fqfqvv4i0og1rfulc?authkey=CNDs2tTUztO4wgE)
+
 We’ll be introducing Project 2, Tournament Results.
 
 In Project 1you worked with object-oriented Python to create a Movie Trailer website. In Project 2, you will be writing a Python module that uses the PostgreSQL database to keep track of players and matches in a game tournament. Mastering this project will help you understand what’s going on under the hood in later projects once you begin to use ORMs or object-relational mapping. This is a programming technique that is used to convert data between incompatible type systems in object-oriented programming languages and will be used to communicate between the server and the database.
@@ -169,5 +171,3 @@ For the fourth (and in this case final) round, the process repeats, and players 
 1 player with 0 points
 
 So, as mentioned before, the highlights of the Swiss system are that it produces a clear winner in just a few rounds, no-one is eliminated and almost everyone wins at least one game, but there are many ties to deal with!
-
-Watch the office hours here: [Office hours link](https://plus.google.com/u/0/events/co3cqvh831fqfqvv4i0og1rfulc?authkey=CNDs2tTUztO4wgE)
