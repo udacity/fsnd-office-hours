@@ -1,6 +1,6 @@
 # Office Hours Summary 3/4: Project 3 and Flask
 
-You can watch the office hours [here](https://plus.google.com/events/cnsc0n843f1fu1bc5d6k6meg7rk).
+You can watch the office hours [here](https://plus.google.com/events/cnsc0n843f1fu1bc5d6k6meg7rk?authkey=CK-7kvaB6pjQsQE).
 
 Find it in the repo [here](https://github.com/udacity/fsnd-office-hours).
 
