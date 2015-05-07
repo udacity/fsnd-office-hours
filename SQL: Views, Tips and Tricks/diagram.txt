@@ -1,0 +1,10 @@
++------------------+
+|    Teams         |
++------------------+     +------------------+
+| name             |     |   Players        |
+| city             |     +------------------+
+| league           |     | name             |
+| division         |     | position         |
+| id (primary key) |<----| team_id          |
++------------------+     | id (primary key) |
+                         +------------------+
